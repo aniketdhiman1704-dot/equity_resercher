@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-server/
+.env
+.env.*
+!.env.example
+data/
+uploads/
+reports/
+*.sqlite*
+playwright-report/
+test-results/
+*.tsbuildinfo
+.DS_Store
+
+# Portable sessions can contain private financials.
+*.equity.json
