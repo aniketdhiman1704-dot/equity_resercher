@@ -1,6 +1,6 @@
 # Put the website online
 
-Prepared: 10 November 2026 (Asia/Calcutta). This configuration requests one **Free** Render web service. A hosted URL is available only after the service is created and its deployment succeeds.
+Prepared: 10 November 2026 (Asia/Calcutta). This configuration requests one **Free** Render web service. The application and configuration are uploaded to [the deployment branch](https://github.com/aniketdhiman1704-dot/equity_resercher/tree/deploy/free-hosting). A hosted URL is available only after the service is created and its deployment succeeds.
 
 ## Create the service
 
